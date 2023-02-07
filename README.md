@@ -1,2 +1,2 @@
 # latihan-krisna
-Repository untuk berlatih menggunakan gGit dan GitHub
+Repository untuk berlatih menggunakan Git dan GitHub
